@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../imeges/hlw.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.register {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25px;
+    color: #ff1271;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: #ff1271;
+    border: #ff1271;
+    margin-top: 8px;
+    margin: 5px 5px;
+}
+
+.btn {
+    font-weight: 500;
+    width: 100%;
+    margin: auto;
+    border: none;
+    margin-top: 8px;
+    padding: 4px 5px;
+}
+
+.btn-primary:hover {
+    background-color: #ff1271 !important;
+}
+
+label {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+
+::placeholder {
+    font-size: 13px;
+}
+
+.shortcurt {
+    padding-top: 12px;
+
+}
+
+.shortcurt i {
+    padding: 6px 6px;
+    margin-inline: 5px;
+    border: 1px solid #ff1271;
+    border-radius: 50px;
+    color: rgb(134, 75, 192);
+    cursor: pointer;
+}
+
+a {
+    font-size: 13px;
+}
+
+
+
+
+
+/* SIGN IN PAGE */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:700px) {
+    body {
+        width: 450px !important;
+        margin: auto;
+    }
+
+    a {
+        color: black;
+        font-weight: 500;
+    }
+}

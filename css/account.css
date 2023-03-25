@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../imeges/account.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.register {
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    padding-top: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: #ff1271;
+    border: #ff1271;
+    margin-top: 8px;
+    margin: 5px 5px;
+}
+
+.btn {
+    font-weight: 500;
+    width: 100%;
+    margin: auto;
+    border: none;
+    margin-top: 8px;
+    padding: 4px 5px;
+}
+
+.btn-primary:hover {
+    background-color: #ff1271 !important;
+}
